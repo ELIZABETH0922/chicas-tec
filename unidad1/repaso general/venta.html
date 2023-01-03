@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/venta.css">
+</head>
+<body>
+    <header>
+        <h1>LITERATURA EN TUS MANOS</h1>
+    </header>
+    <main>
+        <a href="index.html">
+            <img class="b" src="img/inicio.png" alt="inicio"></a>
+        <a href="venta.html">
+                <img class="b" src="img/compra.png" alt="compra"></a>
+        <a href="compra.html">
+                    <img class="b" src="img/catalogo.png" alt="catalogo"></a>
+        <h2>Proceso de compra:</h2>
+    <form>
+        <div class="campo">
+            <label for="nombre">Nombre :</label>
+            <input type="nombre" id="nombre">
+        </div>
+        <div class="campo">
+            <label for="apellido">Apellido :</label>
+            <input type="apellido" id="apellido">
+        </div>
+        <div class="campo">
+            <label for="email">Correo electrónico :</label>
+            <input type="email" name="email" id="email" required>
+        </div>
+        <div class="campo">
+            <label for="date">Fecha de nacimiento :</label>
+            <input type="date" name="date" id="date">
+        </div>
+        <div class="campo">
+            <p>Género:</p>
+            <span class="tab"></span> <input type="radio" id="f" name="genero" value="f">
+            <label for="f">femenino</label>
+            <input type="radio" id="m" name="genero" value="m">
+            <label for="m">masculino</label>
+        </div>
+        <div class="campo">
+        <label for="DNI">DNI :</label>
+        <input type="DNI" id="DNI">
+        </div>
+        <div class="campo">
+        <label for="número">Teléfono :</label>
+        <input type="número" id="número">
+        </div>
+        <div class="campo">
+        <label for="ubicación">Dirección :</label>
+        <input type="ubicacón" id="ubicación">
+        </div>
+        <div class="campo">
+            <button type="button" id="enviar" onclick="datos()">Enviar</button>
+        </div>
+    </form>
+
+</main>
+<footer>
+    <p>
+        &copy;</p>
+</footer>
+<script src="js/venta.js"></script>
+</body>
+</html>

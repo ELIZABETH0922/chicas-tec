@@ -1,0 +1,86 @@
+header{border: 6px solid rgb(221, 220, 220);border-radius: 80px;color: rgb(255, 167, 126);background-color: rgb(190, 241, 248); font-family: Georgia, 'Times New Roman', Times, serif}
+.a {
+    border: 5px dashed rgb(180, 180, 180);
+    border-radius: 10px;
+    background-color: beige;
+    color:rgb(255, 167, 126);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px
+}
+.b {
+    border: 5px dotted rgb(180, 180, 180);
+    border-radius: 10px;
+    background-color: beige;
+    color:rgb(255, 167, 126);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px
+}
+.c {
+    border: 5px double rgb(180, 180, 180w);
+    border-radius: 10px;
+    background-color: beige;
+    color:rgb(255, 167, 126);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px
+}
+.d {
+    border: 5px groove rgb(180, 180, 180);
+    border-radius: 10px;
+    background-color: beige;
+    color:rgb(255, 167, 126);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px
+}
+.e {
+    border: 5px ridge rgb(180, 180, 180);
+    border-radius: 10px;
+    background-color: beige;
+    color:rgb(255, 167, 126);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px
+}
+.f {
+    border: 5px inset rgb(180, 180, 180);
+    border-radius: 10px;
+    background-color: beige;
+    color:rgb(255, 167, 126);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px
+}
+.g {
+    border: 5px outset ;
+    border-radius: 10px;
+    background-color: beige;
+    color:rgb(255, 167, 126);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px
+}
+.h {
+    border-bottom: 5px dashed;
+    background-color: beige;
+    color:rgb(255, 167, 126);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px
+}
+.i {
+    border-top: 5px dotted;
+    background-color: beige;
+    color:rgb(255, 167, 126);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px
+}
+.j {
+    border-right: 5px double ;
+    background-color: beige;
+    color:rgb(255, 167, 126);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px
+}
+.k {
+    border-left: 5px groove ;
+    background-color: beige;
+    color:rgb(255, 167, 126);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px
+}
+

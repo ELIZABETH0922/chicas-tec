@@ -1,0 +1,10 @@
+header {
+    border: 5px double rgb(86, 211, 233);
+    border-radius: 5px;
+    color: beige;
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px
+}
+p{color: rgb(40, 122, 122);font-size: 19px}
+li{color: rgb(90, 57, 18);font-size: 16px}

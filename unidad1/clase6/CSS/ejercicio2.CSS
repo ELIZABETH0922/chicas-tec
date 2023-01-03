@@ -1,0 +1,20 @@
+.título {
+    border: 5px solid yellow;
+    border-radius: 10px;
+    background-color: beige;
+    color: gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px
+}
+
+.subtítulo {
+    color: sienna;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px
+}
+
+.text {
+    color: indigo;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px
+}

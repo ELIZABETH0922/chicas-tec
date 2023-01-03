@@ -1,0 +1,47 @@
+.a {
+    border: 5px dotted rgb(180, 180, 180);
+    margin: 6px;
+    padding: 5px;
+    background-color: beige;
+    color:rgb(255, 167, 126);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px
+}
+.b {
+    border: 5px dashed gray;
+    margin: 6px;
+    padding: 5px;
+    background-color: beige;
+    color:rgb(255, 167, 126);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px
+}
+.c{ border-bottom: 5px dashed gray;
+    margin: 6px;
+    padding: 5px;
+    background-color: beige;
+    color:rgb(255, 167, 126);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px
+}
+.d{border-top: 5px dotted gray;
+    margin: 6px;
+    padding: 5px;
+    background-color: beige;
+    color:rgb(255, 167, 126);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px }
+.e{border-right: 5px double gray;
+        margin: 6px;
+        padding: 5px;
+        background-color: beige;
+        color:rgb(255, 167, 126);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 15px}
+.f{ border-left: 5px groove gray;
+            margin: 6px;
+            padding: 5px;
+            background-color: beige;
+            color:rgb(255, 167, 126);
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: 15px}

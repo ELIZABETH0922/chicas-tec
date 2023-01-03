@@ -1,0 +1,23 @@
+h1 {
+    border: 5px solid yellow;
+    border-radius: 10px;
+    background-color: beige;
+    color: gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div {
+    border: 5px solid yellow;
+    border-radius: 10px;
+    background-color: beige
+}
+
+h2 {
+    color: sienna;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+p {
+    color: indigo;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>.:formulario:.</title>
+    <link rel="stylesheet" href="css/sesion11.css">
+</head>
+
+<body>
+    <header>
+        <center>
+            <h1>ACTIVIDAD</h1>
+        </center>
+    </header>
+    <main>
+        <form>
+            <div class="campo">
+                <label for="nombre">Nombre :</label>
+                <input type="nombre" id="nombre">
+            </div>
+            <div class="campo">
+                <label for="apellido">Apellido :</label>
+                <input type="apellido" id="apellido">
+            </div>
+            <div class="campo">
+                <label for="email">Correo electrónico :</label>
+                <input type="email" name="email" id="email" required>
+            </div>
+            <div class="campo">
+                <label for="date">Fecha de nacimiento :</label>
+                <input type="date" name="date" id="date">
+            </div>
+            <div class="campo">
+                <p>Género:</p>
+                <span class="tab"></span> <input type="radio" id="f" name="genero" value="f">
+                <label for="f">femenino</label>
+                <input type="radio" id="m" name="genero" value="m">
+                <label for="m">masculino</label>
+            </div>
+            <div class="campo">
+                <label for="estatura">Estatura:</label>
+                <input class="w-50" type="number" name="estatura" id="estatura" step="any"> metros
+            </div>
+            <div class="campo">
+                <label for="peso">peso:</label>
+                <input class="w-50" type="number" name="peso" id="peso" step="any"> kg
+            </div>
+            <div class="campo">
+                <input type="checkbox" id="deporte" name="deporte">
+                <label for="deporte">realiza deporte regularmente</label>
+            </div>
+            <div class="campo">
+                <button type="button" id="enviar" onclick="datos()">Enviar</button>
+            </div>
+        </form>
+
+    </main>
+    <footer>
+        <p>
+            &copy; Damaris Sanchez</p>
+    </footer>
+    <script src="JS/sesion11 (1).js"></script>
+</body>
+
+</html>

@@ -1,0 +1,41 @@
+header {
+    background-color: rgba(208, 226, 255, 0.494);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(41, 89, 109);
+    color: rgb(255, 255, 255);
+}
+
+img {
+    margin: 15px;
+    width: 250px;
+    height: .350;
+}
+
+main {
+    border: 5px double white;
+    border-radius: 10px;
+    margin: 50px;
+    padding: 25px;
+}
+
+footer {
+    color: beige;
+    margin: 50px;
+    font-size: 20px;
+}
+
+li {
+    color: moccasin;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+.b{
+    width: 25px;
+    height: 25px;
+}
